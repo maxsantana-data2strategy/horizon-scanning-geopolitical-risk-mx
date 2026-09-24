@@ -97,7 +97,8 @@ def main() -> pd.DataFrame:
     # Horizonte ordinal
     df["horizonte_ord"] = df["horizonte"].map(
         {"Corto (1-3 años)": 1, "Mediano (3-6 años)": 2, "Largo (6-10 años)": 3})
-    df["ambito"] = df["alcance"].apply(lambda s: "México" if s.startswith("México") and "Global" not in s and "mundo" not in s
+    df["ambito"] = df["alcance"].apply(
+        lambda s: "México" if s.startswith("México") and "Global" not in s and "mundo" not in s
         else ("México y el mundo" if s.startswith("México") else "Global"))
 
     # IDs faltantes en la secuencia
