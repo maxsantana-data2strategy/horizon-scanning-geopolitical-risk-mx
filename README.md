@@ -353,9 +353,9 @@ The MIU uses (6 − probability) as a proxy for uncertainty. Maximum true uncert
 - **Data Collection & Cleaning:** ✅ Complete | 43 signals, 45 quality corrections logged
 - **Analysis & Correlation Audit:** ✅ Complete | Novelty penalty detected & documented
 - **Visualization & Narrative:** ✅ Complete | 4 publication-quality figures + executable notebook
-- **AI Integration Documentation:** ✅ Complete | Roles, limitations, risks, and mitigations explicit
+- **AI Integration Documentation:** 🟡 In Progress | Roles, limitations, risks, and mitigations explicit
 - **Repository Setup:** 🟡 In Progress | Ready for code review & driver validation
-- **Documentation:** ✅ Complete | README, case study, inline comments, lessons learned
+- **Documentation:** 🟡 In Progress | README, case study, inline comments, lessons learned
 - **Ready for Decision-Making:** ❌ No | Drivers must be validated by stakeholder panel; weak-signal watchlist requires executive alignment on priorities
 
 ---
