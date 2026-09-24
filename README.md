@@ -1,6 +1,7 @@
 # AI + Data Analysis for Horizon Scanning · México Geopolitical Risk (2026)
 
 **Case study: How AI and data analysis can support horizon scanning · 43 signals · 7 drivers**
+
 Status:  🟡 In Progress (This project is still under review; documentation reflects preliminaryr documentation)
 
 ---
