@@ -1,0 +1,46 @@
+id,campo,nota
+S39,descripcion/como_cambia/stakeholders,Celdas desplazadas; reubicadas. Stakeholders reconstruidos a partir de la descripción (validar).
+S14,fecha_publicacion,Fecha no válida '18/7/1905' → NaT
+S15,fecha_publicacion,Fecha no válida '17/7/1905' → NaT
+S16,fecha_publicacion,Fecha no válida '18/7/1905' → NaT
+S17,fecha_publicacion,Fecha no válida '18/7/1905' → NaT
+S37,fecha_publicacion,Fecha no válida '2026' → NaT
+S39,sombrero_mad_hatter,Valor '' → 'Sin clasificar'
+S40,sombrero_mad_hatter,Valor '' → 'Sin clasificar'
+S41,sombrero_mad_hatter,Valor '' → 'Sin clasificar'
+S42,sombrero_mad_hatter,Valor '' → 'Sin clasificar'
+S43,sombrero_mad_hatter,Valor '' → 'Sin clasificar'
+S44,sombrero_mad_hatter,Valor '' → 'Sin clasificar'
+S39,nivel_kuosa,Valor '' → 'Sin clasificar'
+S40,nivel_kuosa,Valor '' → 'Sin clasificar'
+S41,nivel_kuosa,Valor '' → 'Sin clasificar'
+S42,nivel_kuosa,Valor '' → 'Sin clasificar'
+S43,nivel_kuosa,Valor '' → 'Sin clasificar'
+S44,nivel_kuosa,Valor '' → 'Sin clasificar'
+S39,futuros_integrales,Valor '' → 'Sin clasificar'
+S40,futuros_integrales,Valor '' → 'Sin clasificar'
+S41,futuros_integrales,Valor '' → 'Sin clasificar'
+S42,futuros_integrales,Valor '' → 'Sin clasificar'
+S43,futuros_integrales,Valor '' → 'Sin clasificar'
+S44,futuros_integrales,Valor '' → 'Sin clasificar'
+S27,foda,Valor '?' → 'Sin clasificar'
+S35,foda,Valor '?' → 'Sin clasificar'
+S39,foda,Valor '' → 'Sin clasificar'
+S40,foda,Valor '' → 'Sin clasificar'
+S41,foda,Valor '' → 'Sin clasificar'
+S42,foda,Valor '' → 'Sin clasificar'
+S43,foda,Valor '' → 'Sin clasificar'
+S44,foda,Valor '' → 'Sin clasificar'
+S39,arquetipo_dator,Valor '' → 'Sin clasificar'
+S40,arquetipo_dator,Valor '' → 'Sin clasificar'
+S41,arquetipo_dator,Valor '' → 'Sin clasificar'
+S42,arquetipo_dator,Valor '' → 'Sin clasificar'
+S43,arquetipo_dator,Valor '' → 'Sin clasificar'
+S44,arquetipo_dator,Valor '' → 'Sin clasificar'
+S39,cla,Valor '' → 'Sin clasificar'
+S40,cla,Valor '' → 'Sin clasificar'
+S41,cla,Valor '' → 'Sin clasificar'
+S42,cla,Valor '' → 'Sin clasificar'
+S43,cla,Valor '' → 'Sin clasificar'
+S44,cla,Valor '' → 'Sin clasificar'
+S38,id,ID ausente en la base (depurada o no registrada)
